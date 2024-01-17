@@ -1,9 +1,14 @@
 // app global css in SCSS form
 #word-soap-test {
+  .main-title{
+    @media screen and (max-width:720px) {
+      font-size: 24px;
+    }
+  }
   .words-soap-form{
     gap: 20px;
     @media screen and (max-width:720px) {
-
+      flex-flow: column;
     }
     .fila{
       gap: 10px;

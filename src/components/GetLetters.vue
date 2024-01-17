@@ -1,6 +1,6 @@
 <template>
   <div id="word-soap-test" class=" col-12 q-pa-md">
-    <h4 class="text-center">
+    <h4 class="main-title text-center">
       Formulario en el cual se genera la sopa de letras
     </h4>
     <q-form
