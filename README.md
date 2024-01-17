@@ -72,6 +72,7 @@ See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quas
   12. P,P,V,D,D,X,U,F,A,L,C,O,N,Y
   13. M,O,N,O,C,U,Q,W,M,A,N,A,T,I
   14. N,N,X,H,E,B,P,M,U,P,E,R,R,O
+- Palabras: MANATI,PERRO,GATO ,CONEJO ,TIBURON,ELEFANTE,ALCON,SERPIENTE ,JAGUAR ,CANGURO ,LOBO, MONO,NUTRIA,LEON,LORO,TORO,ORUGA,TIGRE,CACATUA,KOALA,PUMA,AGUILA
  
 ### Guia de usuario
 1. setear el numero de columnas de la sopa de letras (esta no tiene que ser de NxN sino que puede ser asimetrica) ![image](https://github.com/andresknoo00001/Prueba-tecnica-olam/assets/32203440/1692953c-c7ee-4b13-b99c-c77a8bd753e0)
