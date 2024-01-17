@@ -54,6 +54,6 @@ quasar build
 
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js).
 
-## User guide
-the firt screen you will se on the is this: ![image](https://github.com/andresknoo00001/Prueba-tecnica-olam/assets/32203440/1692953c-c7ee-4b13-b99c-c77a8bd753e0)
-here you set the columns number of the Word soap,
+## Guia de usuario
+ - 1. setear el numero de columnas de la sopa de letras (esta no tiene que ser de NxN sino que puede ser asimetrica) ![image](https://github.com/andresknoo00001/Prueba-tecnica-olam/assets/32203440/1692953c-c7ee-4b13-b99c-c77a8bd753e0)
+la idea aca es poner el numero de columnas que queremos que tenga la sopa de letras
