@@ -1,5 +1,5 @@
 <template>
-  <div id="word-soap-test" class=" col-12 q-pa-md">
+  <div id="word-soap-test" class="col-12 q-pa-md">
     <h4 class="main-title text-center">
       Formulario en el cual se genera la sopa de letras
     </h4>
@@ -7,9 +7,9 @@
       key="soap-form"
       @submit="onSubmit"
       @reset="onReset"
-      class=" words-soap-form row"
+      class="words-soap-form row"
     >
-      <div class="fila fila-1-form row col-12 ">
+      <div class="fila fila-1-form row col-12">
         <q-input
           class="col"
           filled
@@ -47,7 +47,7 @@
           ]"
         />
       </div>
-      <div class="fila fila-2-form row col-12 ">
+      <div class="fila fila-2-form row col-12">
         <div v-if="filas != 0 && columnas != 0" class="contenedor-letras col">
           <q-input
             filled
@@ -60,16 +60,13 @@
           />
         </div>
       </div>
-      <div class="buttons-container col-12 row ">
+      <div class="buttons-container col-12 row">
         <q-btn class="col" label="Submit" type="submit" color="primary" />
         <q-btn label="Reset" type="reset" color="primary" flat class="col" />
       </div>
     </q-form>
-    <div class="word-soap-results-container  row">
-      <div
-        v-if="filas != 0 && columnas != 0"
-        class="word-soap-container  col-5"
-      >
+    <div class="word-soap-results-container row">
+      <div v-if="filas != 0 && columnas != 0" class="word-soap-container col-5">
         <h5 class="text-center">SOPA DE LETRAS</h5>
         <div class="word-soap">
           <div class="soap-container">
@@ -130,9 +127,9 @@
         key="words-form"
         @submit="splitWords"
         @reset="onResetWords"
-        class=" words-form"
+        class="words-form"
       >
-        <div class="fila-1-form row col-12 ">
+        <div class="fila-1-form row col-12">
           <q-input
             class="col"
             filled
@@ -143,7 +140,7 @@
             lazy-rules
           />
         </div>
-        <div class="buttons-container col-12 row ">
+        <div class="buttons-container col-12 row">
           <q-btn class="col" label="Submit" type="submit" color="primary" />
           <q-btn label="Reset" type="reset" color="primary" flat class="col" />
         </div>

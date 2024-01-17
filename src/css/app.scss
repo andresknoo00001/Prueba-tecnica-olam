@@ -1,24 +1,24 @@
 // app global css in SCSS form
 #word-soap-test {
-  .main-title{
-    @media screen and (max-width:720px) {
+  .main-title {
+    @media screen and (max-width: 720px) {
       font-size: 24px;
     }
   }
-  .words-soap-form{
+  .words-soap-form {
     gap: 20px;
-    @media screen and (max-width:720px) {
+    @media screen and (max-width: 720px) {
       flex-flow: column;
     }
-    .fila{
+    .fila {
       gap: 10px;
-      @media screen and (max-width:480px) {
+      @media screen and (max-width: 480px) {
         flex-flow: column;
       }
     }
   }
-  .word-soap-results-container{
-    @media screen and (max-width:720px) {
+  .word-soap-results-container {
+    @media screen and (max-width: 720px) {
       flex-flow: column;
     }
     .word-soap-container {
@@ -37,8 +37,8 @@
         }
       }
     }
-    @media screen and (max-width:720px) {
-      .col-5{
+    @media screen and (max-width: 720px) {
+      .col-5 {
         width: 100%;
       }
     }
