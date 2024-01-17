@@ -54,7 +54,26 @@ quasar build
 
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js).
 
-## Guia de usuario
+### Entrada recomendada para filas de sopa de letras
+- Numero Columnas: 14
+- Numero filas: 14
+- filas:
+  1. N,D,E,K,I,C,A,N,G,U,R,O,G,E
+  2. S,X,R,Y,K,V,I,I,Q,G,W,Q,O,D
+  3. J,A,G,U,A,R,Z,W,B,N,K,O,U,A
+  4. M,L,E,L,E,F,A,N,T,E,H,O,G,W
+  5. L,O,B,O,N,U,T,R,I,A,O,U,S,U
+  6. W,W,O,S,O,G,A,T,O,V,R,T,M,O
+  7. H,L,Z,N,C,T,Y,Z,E,O,X,A,U,R
+  8. C,E,C,Y,T,I,B,U,R,O,N,S,R,O
+  9. C,O,N,E,J,O,Y,U,S,M,R,S,H,T
+  10. Y,N,I,F,E,F,P,T,E,Z,O,O,S,F
+  11. O,S,S,E,R,P,I,E,N,T,E,F,L,G
+  12. P,P,V,D,D,X,U,F,A,L,C,O,N,Y
+  13. M,O,N,O,C,U,Q,W,M,A,N,A,T,I
+  14. N,N,X,H,E,B,P,M,U,P,E,R,R,O
+ 
+### Guia de usuario
 1. setear el numero de columnas de la sopa de letras (esta no tiene que ser de NxN sino que puede ser asimetrica) ![image](https://github.com/andresknoo00001/Prueba-tecnica-olam/assets/32203440/1692953c-c7ee-4b13-b99c-c77a8bd753e0)
   la idea aca es poner el numero de columnas que queremos que tenga la sopa de letras (horizontalmente cuantos cuadros tendrá)
 2. aca setearemos el numero de filas de la matriz ![image](https://github.com/andresknoo00001/Prueba-tecnica-olam/assets/32203440/35d0e027-4ce9-4a15-ab92-2f9a550b3178)
