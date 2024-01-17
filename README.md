@@ -63,5 +63,10 @@ See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quas
    - ![image](https://github.com/andresknoo00001/Prueba-tecnica-olam/assets/32203440/d6e07a26-96f3-4b1d-962f-7e5599ff7b1f)
    - La aplicacion realiza la validacion de que la cantidad de letras separadas por coma corresponda al numero de columnas indicadas en la parte superior ![image](https://github.com/andresknoo00001/Prueba-tecnica-olam/assets/32203440/a3a340ba-5d6c-49a3-9d25-1b7a9dca99c9)
    - Cuando el numero de letras es correcto, almacena la informacion e indica cuantas filas mas debemos agregar para construir la sopa de letras ![image](https://github.com/andresknoo00001/Prueba-tecnica-olam/assets/32203440/b9bd8b4c-59f4-47f2-96a3-78f8809e99cf)
- 
+   - Cuando terminamos de armar la sopa de letras el sistema no nos permite ingresar mas filas y nos notifica que ya esta listo ![image](https://github.com/andresknoo00001/Prueba-tecnica-olam/assets/32203440/11b91b25-6727-490c-87e7-edd86db132a0)
+4. luego de que ingresamos las filas de la sopa de letras, la aplicacion nos habilita el formulario para ingresar las palabras a buscar, podemos hacerlo de forma individual o ingresnadolas sepadas por coma
+   ![image](https://github.com/andresknoo00001/Prueba-tecnica-olam/assets/32203440/57b75b67-825c-4b3d-9fe8-58cedd525e4b)
+5. para buscar las palabras simplemente le damos click a submit y el sistema busca las palabras y te dice cuales encuentra y cuales no ![image](https://github.com/andresknoo00001/Prueba-tecnica-olam/assets/32203440/2380e24d-68bb-49d1-b9c9-38db0e756b62)
+6. por ultimo pero no menos importante, si queremos resetear los valores solo debemos oprimir el boton de reset para limpiar la informacion ![image](https://github.com/andresknoo00001/Prueba-tecnica-olam/assets/32203440/84af9e46-4481-4d0a-86f4-92aa0a921cf6) y ![image](https://github.com/andresknoo00001/Prueba-tecnica-olam/assets/32203440/452bc6a6-7a08-46bf-8312-23174c132f95)
+
 
