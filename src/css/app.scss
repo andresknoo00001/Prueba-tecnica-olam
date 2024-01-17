@@ -1,0 +1,19 @@
+// app global css in SCSS form
+#word-soap-test {
+  .word-soap-container {
+    .word-soap {
+      .soap-container {
+        margin: 0 auto;
+        width: fit-content;
+        .soap-row {
+          .soap-letter {
+            font-size: 24px;
+            min-width: 38px;
+            min-height: 28px;
+            border: 1px solid #bbb;
+          }
+        }
+      }
+    }
+  }
+}
