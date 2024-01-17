@@ -52,7 +52,7 @@
           <q-input
             filled
             v-model="Letras"
-            label="Letras fila 1"
+            label="Letras fila"
             type="text"
             hint="Ingrese las letras de la fila 1 separadas por coma"
             lazy-rules
