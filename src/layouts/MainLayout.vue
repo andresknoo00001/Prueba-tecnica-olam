@@ -2,7 +2,7 @@
   <q-layout view="lHh Lpr lFf">
     <q-header elevated>
       <q-toolbar class="bg-red">
-        <q-toolbar-title> Prueba tecnica olma </q-toolbar-title>
+        <q-toolbar-title class="text-center"> Prueba tecnica olma (responsive app)</q-toolbar-title>
       </q-toolbar>
     </q-header>
     <q-page-container class="row items-start justify-center q-pa-md">

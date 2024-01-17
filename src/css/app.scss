@@ -1,18 +1,40 @@
 // app global css in SCSS form
 #word-soap-test {
-  .word-soap-container {
-    .word-soap {
-      .soap-container {
-        margin: 0 auto;
-        width: fit-content;
-        .soap-row {
-          .soap-letter {
-            font-size: 24px;
-            min-width: 38px;
-            min-height: 28px;
-            border: 1px solid #bbb;
+  .words-soap-form{
+    gap: 20px;
+    @media screen and (max-width:720px) {
+
+    }
+    .fila{
+      gap: 10px;
+      @media screen and (max-width:480px) {
+        flex-flow: column;
+      }
+    }
+  }
+  .word-soap-results-container{
+    @media screen and (max-width:720px) {
+      flex-flow: column;
+    }
+    .word-soap-container {
+      .word-soap {
+        .soap-container {
+          margin: 0 auto;
+          width: fit-content;
+          .soap-row {
+            .soap-letter {
+              font-size: 24px;
+              min-width: 38px;
+              min-height: 28px;
+              border: 1px solid #bbb;
+            }
           }
         }
+      }
+    }
+    @media screen and (max-width:720px) {
+      .col-5{
+        width: 100%;
       }
     }
   }
