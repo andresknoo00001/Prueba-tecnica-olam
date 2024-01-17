@@ -1,6 +1,6 @@
 # Prueba-tecnica-olam
 este proyecto sencillo es una prueba tecnica para la compañia olam creative la cual consiste en una sopa de letras que podemos armar y pasarle palabras a buscar
-#Tecnologia usadas
+# Tecnologia usadas
 -Quasar framework para maquetar y formularios
 -vue3 como tecnologia en frontend
 -npm y yarn para manejo de paquetes
